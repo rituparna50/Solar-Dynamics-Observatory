@@ -11,7 +11,7 @@ SDO's main mission is to have a predictive ability to understand solar variation
 *Instruments*
 - Atmospheric Imaging Assembly (AIA)
 - EUV Variability Experiment (EVE)
-- Helioseismic and Magnetic Imager (HMI)
+- Helioseismic and Magnetic Imager (HMI)  -  Measures the surface velocity
 
 *Satellite Specifications*
 SDO is on a geo-synchronous orbit, facing the Sun (Sun-pointing), semni-autonomous satellite, that has a continuous Science download datalink capability of 130 Megabits per second (MBPS). Due to the requirement of a high cadence and almost continous Solar observations, the SDO was planted on an inclined geosynchronous orbit. This also lets SDO be in contact with a single ground station. 
@@ -19,6 +19,17 @@ SDO is on a geo-synchronous orbit, facing the Sun (Sun-pointing), semni-autonomo
 - Because SDO is placed at the farthermost end of the radiation belt, there was significant amount of radiation shielding placed on both the instrument as well as electronics. 
 
 
+*"Mission Science Objectives*
+The scientific goals of the SDO Project are to improve our understanding of seven science questions:
+
+-What mechanisms drive the quasi-periodic 11-year cycle of solar activity?
+-How is active region magnetic flux synthesized, concentrated, and dispersed across the solar surface?
+-How does magnetic reconnection on small scales reorganize the large-scale field topology and current systems and how significant is it in heating the corona and accelerating the solar wind?
+-Where do the observed variations in the Sun's EUV spectral irradiance arise, and how do they relate to the magnetic activity cycles?
+-What magnetic field configurations lead to the CMEs, filament eruptions, and flares that produce energetic particles and radiation?
+-Can the structure and dynamics of the solar wind near Earth be determined from the magnetic field configuration and atmospheric structure near the solar surface?
+-When will activity occur, and is it possible to make accurate and reliable forecasts of space weather and climate?"
+  ---- Source - SDO Webpage-  https://sdo.gsfc.nasa.gov/mission/project.php
 
 
 
