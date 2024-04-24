@@ -9,8 +9,8 @@ SDO's main mission is to have a predictive ability to understand solar variation
 - How this stored magnetic energy is converted and released into the heliosphere as well as geospace in the form of solar wind, energetic particles, and variations in the solar irradiance, which ultimately affect space weather.
 
 *Instruments*
-****Atmospheric Imaging Assembly (AIA)
-****EUV Variability Experiment (EVE)
-****Helioseismic and Magnetic Imager (HMI)
+- Atmospheric Imaging Assembly (AIA)
+- EUV Variability Experiment (EVE)
+- Helioseismic and Magnetic Imager (HMI)
 
 The JPL Horizons System allows access to solar system data of ephemerides to observers and sceintists and gheneral public, mission  planners etc. 
